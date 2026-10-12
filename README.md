@@ -40,3 +40,15 @@ I aim to practise SQL consistently, document my learning, and push my progress t
 ---
 
 *Learning step by step, one query at a time!*
+
+### Day 2: SQL Aggregate Functions
+
+**Topics covered:**
+- COUNT()
+- SUM()
+- AVG()
+- MIN() and MAX()
+- GROUP BY
+- ORDER BY with aggregate functions
+
+**Practice file:** `day-02/day02_aggregates.sql`
