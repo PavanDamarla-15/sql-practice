@@ -52,3 +52,17 @@ I aim to practise SQL consistently, document my learning, and push my progress t
 - ORDER BY with aggregate functions
 
 **Practice file:** `day-02/day02_aggregates.sql`
+
+### Day 3: HAVING and WHERE vs HAVING
+
+**Topics covered:**
+- Filtering rows with `WHERE`
+- Grouping records with `GROUP BY`
+- Filtering groups with `HAVING`
+- Combining conditions with `AND`
+- Aggregate functions with `COUNT()` and `AVG()`
+- Comparison operators such as `>` and `>=`
+
+**Practice file:** `day-03/day03_having.sql`
+
+**Key learning:** `WHERE` filters rows before grouping, while `HAVING` filters groups after grouping.
