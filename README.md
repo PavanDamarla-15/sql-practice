@@ -14,7 +14,7 @@ A hands-on journey to mastering SQL using MySQL 8, with daily practice, intervie
 - GitHub
 
 ## 📚 Daily Progress
-
+x
 ### Day 1: SQL Basics
 **Topics covered:**
 - `SELECT` — retrieve data
@@ -66,3 +66,19 @@ I aim to practise SQL consistently, document my learning, and push my progress t
 **Practice file:** `day-03/day03_having.sql`
 
 **Key learning:** `WHERE` filters rows before grouping, while `HAVING` filters groups after grouping.
+
+### Day 4: SQL JOINs
+
+**Topics covered:**
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- Joining tables using matching IDs
+- Table aliases
+- Filtering joined results using WHERE
+- Sorting joined results using ORDER BY
+- Finding unmatched records using IS NULL
+
+**Practice file:** `day-04/day04_joins.sql`
+
+**Key learning:** INNER JOIN returns matching records, LEFT JOIN preserves all left-table records, and RIGHT JOIN preserves all right-table records.
