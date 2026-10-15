@@ -82,3 +82,16 @@ I aim to practise SQL consistently, document my learning, and push my progress t
 **Practice file:** `day-04/day04_joins.sql`
 
 **Key learning:** INNER JOIN returns matching records, LEFT JOIN preserves all left-table records, and RIGHT JOIN preserves all right-table records.
+
+### Day 5: SQL Subqueries
+
+**Topics covered:**
+- Scalar subqueries
+- Subqueries with `WHERE`
+- `AVG()` and `MAX()` in subqueries
+- `IN` and `NOT IN`
+- Subqueries combined with `GROUP BY` and `HAVING`
+
+**Practice file:** `day-05/day05_subqueries.sql`
+
+**Key learning:** A subquery allows one SQL query to use the result of another query.
