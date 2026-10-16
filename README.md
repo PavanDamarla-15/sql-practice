@@ -95,3 +95,18 @@ I aim to practise SQL consistently, document my learning, and push my progress t
 **Practice file:** `day-05/day05_subqueries.sql`
 
 **Key learning:** A subquery allows one SQL query to use the result of another query.
+
+### Day 6: SQL CASE Expressions
+
+**Topics covered:**
+- `CASE`, `WHEN`, `THEN`, `ELSE`, and `END`
+- Conditional classification of student marks
+- Age categorization
+- Pass/fail evaluation
+- Mapping branches to department names
+- Assigning grades using multiple conditions
+- Combining `CASE` with `ORDER BY DESC`
+
+**Practice file:** `day-06/day06_case.sql`
+
+**Key learning:** The `CASE` expression evaluates conditions in order and returns the result for the first matching condition.
