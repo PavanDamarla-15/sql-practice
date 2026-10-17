@@ -110,3 +110,18 @@ I aim to practise SQL consistently, document my learning, and push my progress t
 **Practice file:** `day-06/day06_case.sql`
 
 **Key learning:** The `CASE` expression evaluates conditions in order and returns the result for the first matching condition.
+
+### Day 7: SQL Constraints and Data Integrity
+
+**Topics covered:**
+- `PRIMARY KEY` — uniquely identifies each record
+- `NOT NULL` — prevents missing values
+- `UNIQUE` — prevents duplicate values
+- `DEFAULT` — supplies a default value
+- `CHECK` — enforces a condition on column values
+- `FOREIGN KEY` — maintains relationships between tables
+- `INNER JOIN` with related tables
+
+**Practice file:** `day-07/day07_constraints.sql`
+
+**Key learning:** SQL constraints enforce data rules and help maintain data integrity across related tables.
