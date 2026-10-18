@@ -125,3 +125,18 @@ I aim to practise SQL consistently, document my learning, and push my progress t
 **Practice file:** `day-07/day07_constraints.sql`
 
 **Key learning:** SQL constraints enforce data rules and help maintain data integrity across related tables.
+
+### Day 8: SQL Data Modification and Transactions
+
+**Topics covered:**
+- `UPDATE` — modify existing records
+- `WHERE` — target specific rows
+- Arithmetic updates using `SET marks = marks + 5`
+- `DELETE` — remove selected records
+- `START TRANSACTION` — begin a transaction
+- `ROLLBACK` — undo uncommitted changes
+- `COMMIT` — save transactional changes
+
+**Practice file:** `day-08/day08_data_modification.sql`
+
+**Key learning:** Use `WHERE` carefully when modifying or deleting data, and use transactions to control changes before committing them.
