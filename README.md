@@ -140,3 +140,17 @@ I aim to practise SQL consistently, document my learning, and push my progress t
 **Practice file:** `day-08/day08_data_modification.sql`
 
 **Key learning:** Use `WHERE` carefully when modifying or deleting data, and use transactions to control changes before committing them.
+
+### Day 9: Data Modification and NULL Handling
+
+**Topics covered:**
+- `INSERT` — add new records
+- `UPDATE` with `WHERE` — modify selected records
+- `DELETE` with `WHERE` — remove selected records
+- `IS NULL` and `IS NOT NULL` — identify missing values
+- `COALESCE()` — substitute a value for `NULL` in query results
+- `ORDER BY DESC` — sort results in descending order
+
+**Practice file:** `day-09/day09_data_modification_nulls.sql`
+
+**Key learning:** Always use appropriate `WHERE` conditions when modifying or deleting records. Use `IS NULL` to check missing values and `COALESCE()` to display a fallback value without changing the stored data.
