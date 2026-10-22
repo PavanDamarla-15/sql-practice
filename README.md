@@ -154,3 +154,18 @@ I aim to practise SQL consistently, document my learning, and push my progress t
 **Practice file:** `day-09/day09_data_modification_nulls.sql`
 
 **Key learning:** Always use appropriate `WHERE` conditions when modifying or deleting records. Use `IS NULL` to check missing values and `COALESCE()` to display a fallback value without changing the stored data.
+
+### Day 10: SQL String Functions
+
+**Topics covered:**
+- `UPPER()` — convert text to uppercase
+- `LOWER()` — convert text to lowercase
+- `CONCAT()` — combine strings
+- `LENGTH()` — count string bytes
+- `SUBSTRING()` and `SUBSTR()` — extract part of a string
+- `TRIM()` — remove leading and trailing spaces
+- Combining string functions with `ORDER BY`
+
+**Practice file:** `day-10/day10_string_functions.sql`
+
+**Key learning:** String functions help format, inspect, and clean text data in SQL queries.
