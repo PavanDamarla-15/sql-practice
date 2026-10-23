@@ -169,3 +169,17 @@ I aim to practise SQL consistently, document my learning, and push my progress t
 **Practice file:** `day-10/day10_string_functions.sql`
 
 **Key learning:** String functions help format, inspect, and clean text data in SQL queries.
+
+### Day 11: SQL Date and Time Functions
+
+**Topics covered:**
+- `CURRENT_DATE()` and `CURRENT_TIME()` — retrieve the current date and time
+- `YEAR()`, `MONTH()`, and `DAY()` — extract date components
+- `DATEDIFF()` — calculate the difference between dates
+- `DATE_ADD()` and `DATE_SUB()` — perform date arithmetic
+- `DATE_FORMAT()` — format dates for readable output
+- Combining date functions in a single query
+
+**Practice file:** `day-11/day11_date_functions.sql`
+
+**Key learning:** Date functions are useful for analysing time-based data, calculating durations, and formatting dates for reports.
