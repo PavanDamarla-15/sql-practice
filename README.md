@@ -183,3 +183,18 @@ I aim to practise SQL consistently, document my learning, and push my progress t
 **Practice file:** `day-11/day11_date_functions.sql`
 
 **Key learning:** Date functions are useful for analysing time-based data, calculating durations, and formatting dates for reports.
+
+
+## Day 12: SQL Numeric Functions
+
+Topics covered:
+- ROUND()
+- CEIL()
+- FLOOR()
+- ABS()
+- MOD()
+- POWER()
+
+Practice file: `day-12/day12_numeric_functions.sql`
+
+Learned to round numbers, find absolute values and remainders, and calculate powers.
