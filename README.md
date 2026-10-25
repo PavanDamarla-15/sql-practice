@@ -198,3 +198,17 @@ Topics covered:
 Practice file: `day-12/day12_numeric_functions.sql`
 
 Learned to round numbers, find absolute values and remainders, and calculate powers.
+
+
+## Day 13: SQL NULL-Handling Functions
+
+Topics covered:
+- IFNULL()
+- NULLIF()
+- COALESCE()
+- Handling NULL values in query results
+- Preventing division by zero using NULLIF()
+
+Practice file: `day-13/day13_null_functions.sql`
+
+Learned to replace missing values in query results, identify matching values, and return the first non-NULL value.
