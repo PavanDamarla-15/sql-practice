@@ -212,3 +212,16 @@ Topics covered:
 Practice file: `day-13/day13_null_functions.sql`
 
 Learned to replace missing values in query results, identify matching values, and return the first non-NULL value.
+
+
+## Day 14: SQL Set Operations
+
+Topics covered:
+- UNION
+- UNION ALL
+- Removing duplicate rows
+- Combining results from multiple SELECT statements
+- ORDER BY with UNION
+- Combining compatible values from different columns
+
+Practice file: `day-14/day14_set_operations.sql`
