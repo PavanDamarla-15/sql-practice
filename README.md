@@ -225,3 +225,16 @@ Topics covered:
 - Combining compatible values from different columns
 
 Practice file: `day-14/day14_set_operations.sql`
+
+
+## Day 15: SQL Views
+
+Topics covered:
+- CREATE VIEW
+- SELECT from a view
+- Filtering views using WHERE
+- CREATE OR REPLACE VIEW
+- DROP VIEW
+- Difference between a view and a table
+
+Practice file: `day-15/day15_views.sql`
