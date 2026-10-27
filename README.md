@@ -238,3 +238,16 @@ Topics covered:
 - Difference between a view and a table
 
 Practice file: `day-15/day15_views.sql`
+
+
+## Day 16: SQL Indexes
+
+Topics covered:
+- CREATE INDEX
+- SHOW INDEX
+- EXPLAIN query execution plans
+- Understanding possible_keys, key, type, and rows
+- DROP INDEX
+- Choosing indexes based on query conditions
+
+Practice file: `day-16/day16_indexes.sql`
