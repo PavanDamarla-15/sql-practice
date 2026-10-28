@@ -251,3 +251,18 @@ Topics covered:
 - Choosing indexes based on query conditions
 
 Practice file: `day-16/day16_indexes.sql`
+
+
+## Day 17: SQL Stored Procedures
+
+Topics covered:
+- CREATE PROCEDURE
+- CALL
+- Input parameters using IN
+- BEGIN and END
+- DELIMITER
+- Filtering by branch and minimum marks
+- Reusable SQL logic
+
+Practice file: `day-17/day17_stored_procedures.sql`
+
