@@ -266,3 +266,17 @@ Topics covered:
 
 Practice file: `day-17/day17_stored_procedures.sql`
 
+
+## Day 18: SQL Triggers
+
+Topics covered:
+- AFTER INSERT trigger
+- AFTER UPDATE trigger
+- BEFORE INSERT trigger
+- NEW and OLD row references
+- SIGNAL SQLSTATE for custom errors
+- Audit tables for insertions and marks updates
+- Validating marks between 0 and 100
+
+Practice file: `day-18/day18_triggers.sql`
+
