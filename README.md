@@ -280,3 +280,21 @@ Topics covered:
 
 Practice file: `day-18/day18_triggers.sql`
 
+
+## Day 19: User-Defined Functions
+
+Topics covered:
+- CREATE FUNCTION
+- DROP FUNCTION
+- RETURNS
+- DETERMINISTIC
+- DECLARE variables
+- IF, ELSEIF, ELSE
+- RETURN
+- NULL handling in functions
+- Creating a grade calculator
+- Creating a bonus calculator
+- Using custom functions inside SELECT queries
+
+Practice file: `day-19/day19_user_defined_functions.sql`
+
