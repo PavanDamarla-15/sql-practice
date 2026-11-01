@@ -298,3 +298,22 @@ Topics covered:
 
 Practice file: `day-19/day19_user_defined_functions.sql`
 
+
+### Day 20: Common Table Expressions (CTEs)
+
+**Topics Covered:**
+- Common Table Expressions using `WITH`
+- Multiple CTEs in a single query
+- CTEs with JOIN, WHERE, HAVING and ORDER BY
+- CTEs with aggregate functions
+- CTEs with CASE statements
+- Recursive CTEs using `WITH RECURSIVE`
+- Generating number and date sequences
+- Recursive calculations: factorial, squares and multiplication tables
+- Filtering recursive CTE results
+- Difference between CTEs and subqueries
+
+**SQL File:** `day-20/day20_ctes.sql`
+
+**Practice:** Completed 20 exercises covering basic and recursive CTEs.
+
