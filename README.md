@@ -317,3 +317,23 @@ Practice file: `day-19/day19_user_defined_functions.sql`
 
 **Practice:** Completed 20 exercises covering basic and recursive CTEs.
 
+
+### Day 21: Window Functions
+
+**Topics Covered:**
+- Window functions using `OVER()`
+- `ROW_NUMBER()`, `RANK()` and `DENSE_RANK()`
+- `PARTITION BY` and `ORDER BY`
+- Aggregate window functions: `AVG()` and `SUM()`
+- Running totals using window frames
+- `LAG()` and `LEAD()`
+- `FIRST_VALUE()` and `LAST_VALUE()`
+- `NTILE()`
+- Filtering window-function results using CTEs
+- Combining CTEs and window functions
+- Finding top-N and second-highest values per group
+- Branch performance analysis
+
+**SQL File:** `day-21/day21_window_functions.sql`
+
+**Practice:** Completed 20 exercises, including a final branch-performance report.
