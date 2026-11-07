@@ -337,3 +337,20 @@ Practice file: `day-19/day19_user_defined_functions.sql`
 **SQL File:** `day-21/day21_window_functions.sql`
 
 **Practice:** Completed 20 exercises, including a final branch-performance report.
+
+
+## Day 22 – SQL Performance Analysis
+
+Topics Covered:
+- EXPLAIN statement and query execution analysis
+- Understanding full table scans
+- Creating and analyzing single-column indexes
+- Creating composite indexes
+- Leftmost Prefix Rule
+- Covering indexes
+- SARGable queries and functions on indexed columns
+- Analyzing sorting with ORDER BY
+- Analyzing grouping with GROUP BY
+- Performance analysis of filtering and grouping queries
+
+SQL File: `day-22/day-22.sql`
