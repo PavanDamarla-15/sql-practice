@@ -354,3 +354,20 @@ Topics Covered:
 - Performance analysis of filtering and grouping queries
 
 SQL File: `day-22/day-22.sql`
+
+
+## Day 23: Advanced SQL Transactions
+
+**Topics Covered:**
+- SAVEPOINT and ROLLBACK TO SAVEPOINT
+- ACID Properties
+- Transaction Isolation Levels
+- READ UNCOMMITTED
+- READ COMMITTED
+- REPEATABLE READ
+- SERIALIZABLE
+- MySQL Transaction Isolation
+- Dirty Reads, Non-Repeatable Reads, and Phantom Reads
+- Practical Transaction Isolation Experiments
+
+**SQL File:** `Day-23-Advanced-Transactions/advanced_transactions.sql`
